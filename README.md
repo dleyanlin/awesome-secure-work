@@ -21,7 +21,7 @@ Repository | Description
 [android-security-awesome](https://github.com/dleyanlin/android-security-awesome) | A collection of android security related resources
 [android_app_security_checklist](https://github.com/b-mueller/android_app_security_checklist) | A checklist with security considerations for designing, testing, and releasing secure Android apps.
 [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)|high value information on specific mobile application penetration testing topics.
-(needle)[https://github.com/mwrlabs/needle]|The iOS Security Testing Framework 
+[needle](https://github.com/mwrlabs/needle)|The iOS Security Testing Framework 
 [idb](https://github.com/dmayer/idb)|idb is a tool to simplify some common tasks for iOS pentesting and research
 ### Web Application
 
