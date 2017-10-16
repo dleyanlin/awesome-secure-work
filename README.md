@@ -23,6 +23,8 @@ Repository | Description
 [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)|high value information on specific mobile application penetration testing topics.
 [needle](https://github.com/mwrlabs/needle)|The iOS Security Testing Framework 
 [idb](https://github.com/dmayer/idb)|idb is a tool to simplify some common tasks for iOS pentesting and research
+[ios_sh](https://github.com/jhaddix/ios_sh)|iOS Source Grepper
+
 ### Web Application
 
 Repository | Description
@@ -32,6 +34,7 @@ Repository | Description
 [arachni](https://github.com/Arachni/arachni)|Web Application Security Scanner Framework
 [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)|Security Guide for Developers 
 [imageXSS](https://github.com/dleyanlin/imageXSS)|exploit xss by image
+[SecLists](https://github.com/danielmiessler/SecLists)|SecLists is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. 
 
 
 ### Binary analysis
@@ -46,5 +49,9 @@ Repository | Description
 [Scanners-Box](https://github.com/We5ter/Scanners-Box) | The toolbox of open source scanners
 [xunfeng](https://github.com/ysrc/xunfeng)|巡风是一款适用于企业内网的漏洞快速应急，巡航扫描系统
 [CyberChef](https://github.com/gchq/CyberChef)|The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+[cve-search](https://github.com/cve-search/cve-search)|cve-search - a tool to perform local searches for known vulnerabilities
+[safe-commit-hook](https://github.com/dleyanlin/safe-commit-hook)|pre-commit hook for Git that checks for suspicious files.
+[gitrob](https://github.com/michenriksen/gitrob)|Reconnaissance tool for GitHub organizations
 [Scumblr](https://github.com/Netflix/Scumblr)|Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results
+[Mind-Map](https://github.com/phith0n/Mind-Map)|各种安全相关思维导图整理收集
 
