@@ -71,3 +71,4 @@ Repository | Description
 [papers](https://github.com/evilcos/papers)|open papers
 [Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)|List of Awesome Red Teaming Resources
 [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)|Collection of the cheat sheets useful for pentesting
+[awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)|A collected list of awesome security talks
