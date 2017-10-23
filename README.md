@@ -37,6 +37,8 @@ Repository | Description
 [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)|Security Guide for Developers 
 [imageXSS](https://github.com/dleyanlin/imageXSS)|exploit xss by image
 [SecLists](https://github.com/danielmiessler/SecLists)|SecLists is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. 
+[awesome-web-security](https://github.com/qazbnm456/awesome-web-security)|A curated list of Web Security materials and resources.
+[Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning)|在学习Web安全的过程中整合的一些资料
 
 
 ### Binary analysis
@@ -45,6 +47,7 @@ Repository | Description
 [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment
 [libfuzzer-workshop](https://github.com/Dor1s/libfuzzer-workshop)|Modern fuzzing of C/C++ Projects workshop.
 [OSXAuditor](https://github.com/jipegit/OSXAuditor)|OS X Auditor is a free Mac OS X computer forensics tool
+[how2heap](https://github.com/shellphish/how2heap)|A repository for learning various heap exploitation techniques.
 
 ### Tools
 Repository | Description
@@ -67,5 +70,3 @@ Repository | Description
 [papers](https://github.com/evilcos/papers)|open papers
 [Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)|List of Awesome Red Teaming Resources
 [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)|Collection of the cheat sheets useful for pentesting
-[Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning)|在学习Web安全的过程中整合的一些资料
-[how2heap](https://github.com/shellphish/how2heap)|A repository for learning various heap exploitation techniques.
