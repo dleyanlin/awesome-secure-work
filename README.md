@@ -54,12 +54,13 @@ Repository | Description
 [safe-commit-hook](https://github.com/dleyanlin/safe-commit-hook)|pre-commit hook for Git that checks for suspicious files.
 [gitrob](https://github.com/michenriksen/gitrob)|Reconnaissance tool for GitHub organizations
 [Scumblr](https://github.com/Netflix/Scumblr)|Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results
-[Mind-Map](https://github.com/phith0n/Mind-Map)|各种安全相关思维导图整理收集
+
 
 
 ### Others
 Repository | Description
 ---- | ----
+[Mind-Map](https://github.com/phith0n/Mind-Map)|各种安全相关思维导图整理收集
 [papers](https://github.com/evilcos/papers)|open papers
 [Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)|List of Awesome Red Teaming Resources
 
