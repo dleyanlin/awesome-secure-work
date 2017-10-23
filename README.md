@@ -43,6 +43,7 @@ Repository | Description
 ---- | ----
 [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment
 [libfuzzer-workshop](https://github.com/Dor1s/libfuzzer-workshop)|Modern fuzzing of C/C++ Projects workshop.
+[OSXAuditor](https://github.com/jipegit/OSXAuditor)|OS X Auditor is a free Mac OS X computer forensics tool
 
 ### Tools
 Repository | Description
