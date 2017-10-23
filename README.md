@@ -25,6 +25,7 @@ Repository | Description
 [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)|high value information on specific mobile application penetration testing topics.
 [needle](https://github.com/mwrlabs/needle)|The iOS Security Testing Framework 
 [idb](https://github.com/dmayer/idb)|idb is a tool to simplify some common tasks for iOS pentesting and research
+[drozer](https://github.com/mwrlabs/drozer)|The Leading Security Assessment Framework for Android
 [ios_sh](https://github.com/jhaddix/ios_sh)|iOS Source Grepper
 [androguard](https://github.com/androguard/androguard)|Reverse engineering, Malware and goodware analysis of Android applications
 
