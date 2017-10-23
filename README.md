@@ -66,3 +66,4 @@ Repository | Description
 [papers](https://github.com/evilcos/papers)|open papers
 [Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)|List of Awesome Red Teaming Resources
 [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)|Collection of the cheat sheets useful for pentesting
+[Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning)|在学习Web安全的过程中整合的一些资料
