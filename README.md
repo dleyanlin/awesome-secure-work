@@ -41,6 +41,7 @@ Repository | Description
 [SecLists](https://github.com/danielmiessler/SecLists)|SecLists is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. 
 [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)|A curated list of Web Security materials and resources.
 [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning)|在学习Web安全的过程中整合的一些资料
+[tbhm](https://github.com/jhaddix/tbhm)|The Bug Hunters Methodology
 
 
 ### Binary analysis
@@ -63,6 +64,8 @@ Repository | Description
 [Scumblr](https://github.com/Netflix/Scumblr)|Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results
 [bleah](https://github.com/evilsocket/bleah)|A BLE scanner for "smart" devices hacking.
 [cilium](https://github.com/cilium/cilium)|Linux Native, HTTP Aware Networking and Security for Containers
+[knock](https://github.com/guelfoweb/knock)|Knockpy is a python tool designed to enumerate subdomains on a target domain through a wordlist
+[hashview](https://github.com/hashview/hashview)|A web front-end for password cracking and analytics
 
 
 ### Others
@@ -73,3 +76,4 @@ Repository | Description
 [Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)|List of Awesome Red Teaming Resources
 [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)|Collection of the cheat sheets useful for pentesting
 [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)|A collected list of awesome security talks
+[security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)|security tips for startups
