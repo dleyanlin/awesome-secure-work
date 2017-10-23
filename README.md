@@ -26,6 +26,7 @@ Repository | Description
 [needle](https://github.com/mwrlabs/needle)|The iOS Security Testing Framework 
 [idb](https://github.com/dmayer/idb)|idb is a tool to simplify some common tasks for iOS pentesting and research
 [ios_sh](https://github.com/jhaddix/ios_sh)|iOS Source Grepper
+[androguard](https://github.com/androguard/androguard)|Reverse engineering, Malware and goodware analysis of Android applications
 
 ### Web Application
 
