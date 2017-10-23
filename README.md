@@ -63,4 +63,4 @@ Repository | Description
 [Mind-Map](https://github.com/phith0n/Mind-Map)|各种安全相关思维导图整理收集
 [papers](https://github.com/evilcos/papers)|open papers
 [Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)|List of Awesome Red Teaming Resources
-
+[awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)|Collection of the cheat sheets useful for pentesting
