@@ -44,7 +44,7 @@ Repository | Description
 [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment
 [libfuzzer-workshop](https://github.com/Dor1s/libfuzzer-workshop)|Modern fuzzing of C/C++ Projects workshop.
 
-### Others
+### Tools
 Repository | Description
 ---- | ----
 [Scanners-Box](https://github.com/We5ter/Scanners-Box) | The toolbox of open source scanners
@@ -56,4 +56,9 @@ Repository | Description
 [Scumblr](https://github.com/Netflix/Scumblr)|Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results
 [Mind-Map](https://github.com/phith0n/Mind-Map)|各种安全相关思维导图整理收集
 [papers](https://github.com/evilcos/papers)|open papers
+
+### Others
+Repository | Description
+---- | ----
+[Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)|List of Awesome Red Teaming Resources
 
