@@ -2,7 +2,6 @@
 
 **A collection of awesome lists for normal secure work.**
 
-Your [contributions](contributing.md) are always welcome !
 
 ### Host Machine 
 Repository | Description
