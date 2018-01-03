@@ -4,6 +4,11 @@
 
 Your [contributions](contributing.md) are always welcome !
 
+### Host Machine 
+Repository | Description
+---- |----
+[vuls](https://github.com/future-architect/vuls) | Vulnerability scanner for Linux/FreeBSD, agentless, written in golang.
+
 ### Source code Analysis
 
 Repository | Description
