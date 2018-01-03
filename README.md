@@ -1,4 +1,4 @@
-# [Awesome For secure work](https://github.com/dleyanlin/awesome-secure-work)
+# [Awesome For securiry](https://github.com/dleyanlin/awesome-secure-work)
 
 **A collection of awesome lists for normal secure work.**
 ### Table of Contents
