@@ -29,6 +29,7 @@ Repository | Description
 ---- | ----
 [cobra](https://github.com/dleyanlin/cobra) | Source Code Security Audit 
 [infer](https://github.com/facebook/infer) | A static analyzer for Java, C, C++, and Objective-C
+[libfuzzer-workshop](https://github.com/Dor1s/libfuzzer-workshop)|Modern fuzzing of C/C++ Projects workshop.
 
 <a name="mobile" />
 
@@ -71,7 +72,6 @@ Repository | Description
 Repository | Description
 ---- | ----
 [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment
-[libfuzzer-workshop](https://github.com/Dor1s/libfuzzer-workshop)|Modern fuzzing of C/C++ Projects workshop.
 [OSXAuditor](https://github.com/jipegit/OSXAuditor)|OS X Auditor is a free Mac OS X computer forensics tool
 [how2heap](https://github.com/shellphish/how2heap)|A repository for learning various heap exploitation techniques.
 [radare2](https://github.com/radare/radare2)|unix-like reverse engineering framework and commandline tools
