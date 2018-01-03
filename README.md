@@ -20,6 +20,7 @@
 Repository | Description
 ---- |----
 [vuls](https://github.com/future-architect/vuls) | Vulnerability scanner for Linux/FreeBSD, agentless, written in golang.
+[clair](https://github.com/coreos/clair) | Vulnerability Static Analysis for Containers
 
 <a name="source" />
 
