@@ -31,8 +31,10 @@ Repository | Description
 [cobra](https://github.com/dleyanlin/cobra) | Source Code Security Audit 
 [infer](https://github.com/facebook/infer) | A static analyzer for Java, C, C++, and Objective-C
 [libfuzzer-workshop](https://github.com/Dor1s/libfuzzer-workshop)|Modern fuzzing of C/C++ Projects workshop.
+[American fuzzy lop](http://lcamtuf.coredump.cx/afl/)|American fuzzy lop is a security-oriented fuzzer that employs a novel type of compile-time instrumentation and genetic algorithms to automatically discover clean, interesting test cases that trigger new internal states in the targeted binary
 [GCC object size checking](https://gcc.gnu.org/onlinedocs/gcc/Object-Size-Checking.html)| GCC implements a limited buffer overflow protection mechanism that can prevent some buffer overflow attacks by determining the sizes of objects into which data is about to be written and preventing the writes when the size isn’t sufficient
-[Sanitizers](https://github.com/google/sanitizers/wiki)|sanitizers for C++ or golang 
+[Sanitizers](https://github.com/google/sanitizers/wiki)|sanitizers for C++ or golang
+
 
 <a name="mobile" />
 
