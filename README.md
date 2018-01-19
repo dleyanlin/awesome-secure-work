@@ -21,6 +21,7 @@ Repository | Description
 ---- |----
 [vuls](https://github.com/future-architect/vuls) | Vulnerability scanner for Linux/FreeBSD, agentless, written in golang.
 [clair](https://github.com/coreos/clair) | Vulnerability Static Analysis for Containers
+[serverspec](https://github.com/mizzy/serverspec)|RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand
 
 <a name="source" />
 
