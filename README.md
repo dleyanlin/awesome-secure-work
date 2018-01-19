@@ -54,6 +54,7 @@ Repository | Description
 [drozer](https://github.com/mwrlabs/drozer)|The Leading Security Assessment Framework for Android
 [ios_sh](https://github.com/jhaddix/ios_sh)|iOS Source Grepper
 [androguard](https://github.com/androguard/androguard)|Reverse engineering, Malware and goodware analysis of Android applications
+[Brida](https://github.com/federicodotta/Brida)|Brida is a Burp Suite Extension that, working as a bridge between Burp Suite and Frida, lets you use and manipulate applications’ own methods while tampering the traffic exchanged between the applications and their back-end services/servers.
 
 <a name="webapp" />
 
