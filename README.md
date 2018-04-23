@@ -69,6 +69,7 @@ Repository | Description
 [arachni](https://github.com/Arachni/arachni)|Web Application Security Scanner Framework
 [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)|Security Guide for Developers 
 [imageXSS](https://github.com/dleyanlin/imageXSS)|exploit xss by image
+[XSStrike](https://github.com/UltimateHackers/XSStrike)|XSStrike is an advanced XSS detection and exploitation suite.
 [SecLists](https://github.com/danielmiessler/SecLists)|SecLists is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. 
 [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)|A curated list of Web Security materials and resources.
 [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning)|在学习Web安全的过程中整合的一些资料
