@@ -113,3 +113,4 @@ Repository | Description
 [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)|Collection of the cheat sheets useful for pentesting
 [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)|A collected list of awesome security talks
 [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)|security tips for startups
+[Introspected tunnels to localhost](https://github.com/inconshreveable/ngrok)|ngrok is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service.
